@@ -2,8 +2,8 @@ import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
 
-class CategoryItemScreen extends StatelessWidget {
-  static const routeName = '/category-item-screen'; 
+class CategoryMealScreen extends StatelessWidget {
+  static const routeName = '/category-item-screen';
   // final String categoryId;
   // final String categoryTitle;
   // const CategoryItemScreen(
